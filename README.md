@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @craigenn
 -  Second year student at Brunel university
--  I’m interested in infosec, space.
+-  I’m interested in Infosec, all things space and ML.
 -  Some previous experience in Visual Basic, C#, Java.
 -  I’m currently learning Java, JS (React) for University, Python for myself.
 
