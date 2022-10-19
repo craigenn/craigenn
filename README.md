@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @craigenn
--  Currently starting work as a Software engineer at Trimble inc.
 -  Computer Science graduate from Brunel university
 -  I’m interested in Infosec, all things space and ML.
 -  Some previous experience in R, Python, Visual Basic, Java.
